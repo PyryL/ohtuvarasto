@@ -1,2 +1,7 @@
 # Poistetaan tarpeeton Macin systeemitiedosto
 .DS_Store
+
+# Viikko 3, tehtava 3, kohta 4
+*.tmp
+__pycache__/
+.pytest_cache/
