@@ -1,3 +1,0 @@
-lorem ipsum dolor sit amet
-
-Tämä on muutos viitaten viikon 1 tehtävän 3 "git add -p" -kohtaan.
