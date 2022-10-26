@@ -1,6 +1,7 @@
 import unittest
 from varasto import Varasto
 
+# tama on jokin epaolennainen muutos, joka liittyy viikon 1 tehtavaan 11
 
 def main():
     mehua = Varasto(100.0)
