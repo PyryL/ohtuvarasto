@@ -5,3 +5,8 @@
 *.tmp
 __pycache__/
 .pytest_cache/
+
+# Viikko 1, tehtava 8, kohta 7
+# coverage-tyokalun tiedostot
+.coverage
+htmlcov/
